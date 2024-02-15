@@ -8,5 +8,9 @@ services:
     volumes:
       - .:/home/node/app
 
-
-
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: sgi
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
