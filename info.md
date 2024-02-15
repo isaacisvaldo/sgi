@@ -16,3 +16,13 @@ Relatório do Projeto: Sistema de Gestão Integrada (SGI)
 - Geração de relatórios em PDF com Nestjs e Puppeteer
 
 Nome do Projeto: SGI - Sistema de Gestão Integrada
+
+O Que vou separar como serviço ?
+
+1-Notificações em tempo real
+2-Autenticação com redes sociais
+3-Sistema de cache com Redis
+4-Geração de relatórios 
+
+
+Possiveis implementação (Serviço de mensageria)
