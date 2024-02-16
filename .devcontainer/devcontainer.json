@@ -20,15 +20,13 @@
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {},
 		"ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {},
-		"ghcr.io/startles/dev-container-features/shell-history:0": {}
+		"ghcr.io/stuartleeks/dev-container-features/shell-history:0": {}
 	},
 	"customizations": {
 		"vscode": {
 		  "extensions": [
 			"prisma.prisma",
-			"streetsidesoftware.code-spell-checker",
-			"git"
-		
+			"streetsidesoftware.code-spell-checker"
 		]
 		}
 	  },
